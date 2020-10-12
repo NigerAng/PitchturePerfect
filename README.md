@@ -10,8 +10,8 @@ I drew inspiration from Musical metacreation in MuseBot ensemble . It is an idea
 In the method Play(), the system first determine which scale should the chord progression be in (G major or C major) by comparing which has a higher count. Next, based on the major, it will determine the last note according to what was suggested in the video for writing chord progression. Results are based completely on the image loaded without any human intervention and is based solely on the algorithm.
 
 # Instructions
-Copy the code into processing.  
-Run the Sketch.  
+Copy the code and /data folder into a folder and name the folder "PitchturePerfect". 
+Run the Sketch in the folder.  
 Click on Select_file and select any image you desired.  
 Press Play
 
