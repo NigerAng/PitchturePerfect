@@ -14,3 +14,5 @@ Copy the code into processing.
 Run the Sketch.  
 Click on Select_file and select any image you desired.  
 Press Play
+
+Sound files was created by taking audio clips from University of Iowa Electronic Music Studios (http://theremin.music.uiowa.edu/MISpiano.html) and mixed into chords on Audacity software.
